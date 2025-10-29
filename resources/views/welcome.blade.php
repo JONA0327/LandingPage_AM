@@ -96,13 +96,11 @@
         <div class="container">
             <div class="mv-grid">
                 <div class="mv-card">
-                    <div class="mv-icon">🎯</div>
                     <h2>Nuestra Misión</h2>
                     <p>Brindar soluciones legales efectivas y estratégicas, orientadas a proteger los intereses de nuestros clientes y garantizar resultados favorables. Nos comprometemos a ofrecer una atención cercana, profesional y transparente, acompañando a cada cliente en todas las etapas de su proceso legal con responsabilidad y ética.</p>
                 </div>
 
                 <div class="mv-card">
-                    <div class="mv-icon">👁️</div>
                     <h2>Nuestra Visión</h2>
                     <p>Ser reconocidos como el despacho jurídico de referencia por nuestra excelencia profesional, compromiso con la justicia y dedicación al servicio de nuestros clientes. Aspiramos a consolidarnos como líderes en la prestación de servicios legales integrales, fundamentados en nuestros valores de empatía, equidad, honestidad, solidaridad y justicia.</p>
                 </div>
@@ -155,6 +153,7 @@
                     <div class="lawyer-info">
                         <h3>Lic. Alondra Meléndez Jasso</h3>
                         <p class="lawyer-title">Directora y Fundadora</p>
+                        <p class="lawyer-cedula">Cédula Profesional: 14519126</p>
                         <p class="lawyer-description">Abogada especializada con amplia experiencia en diversas áreas del derecho. Su compromiso profesional y vocación de servicio la han posicionado como una referente en la atención legal personalizada y de calidad.</p>
                         <p class="lawyer-description">Con una formación sólida y en constante actualización, la Lic. Meléndez Jasso lidera nuestro equipo con la firme convicción de que cada caso merece atención dedicada y soluciones efectivas.</p>
                     </div>
@@ -199,31 +198,17 @@
             <div class="contact-content">
                 <div class="contact-info">
                     <div class="contact-item">
-                        <div class="contact-icon">📍</div>
-                        <div>
-                            <h4>Ubicación</h4>
-                            <p>Consulta disponibilidad para cita presencial o virtual</p>
-                        </div>
-                    </div>
-                    <div class="contact-item">
                         <div class="contact-icon">📞</div>
                         <div>
                             <h4>Teléfono</h4>
-                            <p>Llama para agendar tu consulta</p>
+                            <p>444 341 8972</p>
                         </div>
                     </div>
                     <div class="contact-item">
                         <div class="contact-icon">✉️</div>
                         <div>
                             <h4>Email</h4>
-                            <p>Escríbenos y te responderemos a la brevedad</p>
-                        </div>
-                    </div>
-                    <div class="contact-item">
-                        <div class="contact-icon">🕐</div>
-                        <div>
-                            <h4>Horario</h4>
-                            <p>Lunes a Viernes: 9:00 AM - 6:00 PM</p>
+                            <p>melendezjasso35@gmail.com</p>
                         </div>
                     </div>
                 </div>
